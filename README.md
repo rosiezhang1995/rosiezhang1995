@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yu (Rosie) Zhang
 
-I'm a second-year **IT student** at the **University of South Australia**, majoring in **Software Development**. I'm passionate about building full-stack applications, managing data, and improving backend systems.
+I'm an **IT student** at the **University of South Australia**, majoring in **Software Development**. I'm passionate about building full-stack applications, managing data, and improving backend systems.
 
 ---
 
